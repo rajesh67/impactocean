@@ -25,7 +25,7 @@ SECRET_KEY = 'm-a)%cx^w6!%r9%on688*=*hu$&4%30v)s7s221*f)vvz1a-xi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'impactocean.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'impactocean.herokuapp.com','127.0.0.1']
 
 
 # Application definition
