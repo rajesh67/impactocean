@@ -26,7 +26,7 @@ if 'DJANGO_DEBUG_FALSE' in os.environ:
 else:
     DEBUG = True
     SECRET_KEY = 'insecure-key-for-dev'
-    ALLOWED_HOSTS = ['localhost', 'impactocean.herokuapp.com','127.0.0.1']
+    ALLOWED_HOSTS = []
 
 
 # Application definition
